@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Pirate_Hub es una plataforma web diseñada para centralizar recursos de entretenimiento, educación, seguridad y utilidad digital en un solo lugar.
+Pirate_Hub, una plataforma web diseñada para centralizar recursos de entretenimiento, educación, seguridad y utilidad digital en un solo lugar.
 
 El sistema organiza enlaces directos hacia contenido multimedia y herramientas útiles para mejorar la experiencia de navegación y descubrimiento de contenido en internet.
 
